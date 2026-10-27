@@ -1,2 +1,2 @@
-# Cybersecurity-Lab-Environment-setup-
-Building an isolated virtual Lab for penetration testing and ethical hacking practice 
+# CYBERSECURITY LAB ENVIRONMENT SETUP
+building an isolated lab for penetration testing and ethical hacking practice.
